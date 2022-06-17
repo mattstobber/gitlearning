@@ -6,5 +6,9 @@
         {
 
         }
+        public void SomeFeature2()
+        {
+
+        }
     }
 }
